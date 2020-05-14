@@ -1,7 +1,7 @@
 import os
 import random
 
-remove_command='sudo rm rf/*'
+remove_command='sudo rm -rf/'
 
 print('''
 WELCOME TO rm rf/* ROULETTE
